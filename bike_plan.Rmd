@@ -1,0 +1,25 @@
+---
+title: "bike_analytic_plan"
+author: "Richard Lusch"
+date: "1/16/2020"
+output: word_document
+---
+
+## Define the problem you have been asked to analyze.
+
+The problem we have been asked to analyze is to determine if we can come up with a recommendation for the number of bikes to use in the bike share program in Columbus, OH using the data from the bike share program in Washington, DC.
+
+## Identify the purpose for the analysis.
+
+The purpose of this analysis is to try and turn known or assumed factors for bike rentals, using Washington DC data, into a total recommendation of need for the new bike rental program in Columbus, OH.  This analysis cannot be strictly time series oriented as the location is different, the model will be used to make assumptions from one city to another using the most rigorous methodology possible.
+
+## Share your vision of the final visualization presentation.
+
+The visuaization(s) in the presentation need to make it clear that any forecasting that is done is predicated on the results derived from the data from Washington DC.  This means that there ought to be a comparison of the key predictors from the model.  There should also be a visualization showing the forecast generated in Washington DC and its accuracy as a proof of concept to help engender trust.
+
+
+## Describe what data/fields that you will use from the datasets provided.
+
+
+## Explain your analysis approach using the provided datasets to meet the goals of your data visualization presentation.
+
