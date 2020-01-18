@@ -15,7 +15,7 @@ The purpose of this analysis is to try and turn known or assumed factors for bik
 
 ## Share your vision of the final visualization presentation.
 
-The visuaization(s) in the presentation need to make it clear that any forecasting that is done is predicated on the results derived from the data from Washington DC.  This means that there ought to be a comparison of the key predictors from the model.  There should also be a visualization showing the forecast generated in Washington DC and its accuracy as a proof of concept to help engender trust.
+The visuaization(s) in the presentation need to make it clear that any forecasting that is done is predicated on the results derived from the data from Washington DC.  This means that there ought to be a comparison of the key predictors from the model.  It may also be prudent to visualize some of the different models that were tried to indicate why the one being used was chosen.  There should also be a visualization showing the forecast generated in Washington DC and its accuracy as a proof of concept to help engender trust.
 
 
 ## Describe what data/fields that you will use from the datasets provided.
