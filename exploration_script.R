@@ -11,3 +11,4 @@ gg.day.ts <- ggplot(day.df, aes(x = dteday, y = cnt)) +
   theme_fivethirtyeight() +
   scale_color_hc() +
   labs(title = 'Daily Count Time Series')
+
